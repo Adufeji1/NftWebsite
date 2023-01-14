@@ -1,0 +1,49 @@
+.Navbg {
+    background-color: rgb(34, 5, 91);
+    position: absolute;
+    width: 1250px;
+    max-width: 100%;
+    height: 100px;
+    top: 0px;
+    left: opx;
+    overflow: none;
+}
+
+.logoStyle {
+    background-image: url(/src/Images/logoiconofficio.png);
+    position: absolute;
+    width: 180px;
+    height: 50px;
+    left: 150px;
+    top: 25px;
+}
+
+.navList {
+    display: flex;
+    flex-direction: row;
+    color: white;
+    font-weight: 400;
+    size: 25px;
+    line-height: 29.85px;
+    position: absolute;
+    width: 390px;
+    align-items: center;
+    height: 18px;
+    left: 550px;
+    font-style: normal;
+    top: 25px;
+    justify-content: space-between;
+    list-style-type: none;
+}
+
+.walletLogo {
+    background-image: url(/src/Images/wallet\ BTN.png);
+    position: absolute;
+    width: 250px;
+    height: 50px;
+    left: 1000px;
+    top: 25px;
+}
+
+
+    

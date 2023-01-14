@@ -1,0 +1,110 @@
+.bgStyle {
+    background-color: rgba(35, 2, 105, 0.978);
+    width: 1340px;
+    max-width: 100%;
+    height: 624px;
+    left: 149px;
+    top: 270px;
+    overflow: none;
+    background: contain;
+}
+
+.headingone {
+    position: absolute;
+    width: 305px;
+    height: 150px;
+    left: 150px;
+    top: 160px;
+    font-style: normal;
+    font-weight: 350;
+    font-size: 100px;
+    line-height: 90px;
+    display: flex;
+    align-items: center;
+    color: white;
+    backdrop-filter: blur(8.5px);
+}
+
+.explore {
+    position: absolute;
+    width: 650px;
+    height: 190px;
+    left: 149px;
+    top: 370px;
+    font-style: normal;
+    font-weight: 200;
+    font-size: 30px;
+    line-height: 25px;
+    display: flex;
+    align-items: center;
+    color: white;
+}
+
+.button {
+    position: absolute;
+    width: 150px;
+    height: 40px;
+    left: 149px;
+    top: 510px;
+    color: white;
+    background-image: linear-gradient(rgb(202, 30, 136), rgb(18, 130, 187));
+}
+
+.numbers {
+    font-weight: 300;
+    size: 50px;
+    line-height: 45.15px;
+    color: white;
+    width: 100px;
+    height: 38px;
+    top: 500px;
+    left: 149px;
+}
+
+.tag {
+    font-weight: 200;
+    size: 20px;
+    line-height: 24.2px;
+    color: white;
+}
+
+.listItem {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 403px;
+    top: 505px;
+    left: 149px;
+    position: absolute;
+}
+
+.num {
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 50px;
+    color: white;
+    width: 114px;
+    height: 73px;
+}
+
+
+
+.pgraph {
+    height: 10px;
+    width: 86px;
+    top: 200px;
+    left: 322px;
+    font-weight: 500;
+    line-height: 17.2px;
+    margin-top: -60px;
+    color: white;
+}
+
+.ladyimage {
+    background-image: url(/src/Images/ladyImage.png);
+    position: absolute;
+    width: 600px;
+    height: 500px;
+    left: 650px;
+    top: 80px;
+}

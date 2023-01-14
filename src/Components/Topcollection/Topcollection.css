@@ -1,0 +1,19 @@
+.bgtop {
+    background-color: rgba(35, 2, 105, 0.978);
+    width: 1340px;
+    max-width: 100%;
+    height: 800px;
+    left: 149px;
+    top: 270px;
+    -ms-overflow-style: none;
+    background: contain;
+}
+
+.topimage {
+    background-image: url(/src/Images/top\ colletions\ sections\ use.png);
+    position: absolute;
+    width: 1200px;
+    height: 600px;
+    left: 80px;
+    top: 1300px;
+}
